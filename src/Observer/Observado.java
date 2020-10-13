@@ -1,8 +1,8 @@
-package PrimeiroObserver;
+package Observer;
 
 import java.util.Observable;
 
- class News extends Observable {
+ class Observado extends Observable {
 	
 	void news() {
 		
